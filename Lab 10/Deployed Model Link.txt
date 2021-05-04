@@ -1,0 +1,4 @@
+
+Model can be accessed at https://uci-ml-deployment.herokuapp.com
+
+Repository for the model that was deployed on Heroku is located at https://github.com/ss20648/uci-ml-deployment
